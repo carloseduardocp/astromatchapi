@@ -1,3 +1,3 @@
 flask
-openastro
+openastro @ git+https://github.com/andrmoel/astro.git
 gunicorn
